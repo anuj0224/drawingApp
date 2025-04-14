@@ -1,9 +1,8 @@
-
 # 🖌️ Drawing App
 
 A simple and interactive drawing web app built with **HTML**, **CSS**, and **JavaScript** that lets users draw shapes, sketch freely, and save their artwork as an image.
 
-![Drawing App Screenshot](./Screenshot 2025-04-14 154355.png)
+![Drawing App Screenshot](./image.png)
 
 ## ✨ Features
 
